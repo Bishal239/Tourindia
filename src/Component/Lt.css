@@ -1,0 +1,20 @@
+.Butt {
+    margin: 20px;
+    padding: 20px;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 100px;
+    display: flex;
+    
+}
+.Butt:hover {
+  background-color: #949691;
+}
+.letsgo{
+    display: flex;
+    margin-left: 29%;
+     
+}
+ 
+ 
