@@ -3,53 +3,30 @@ const Cities=()=>{
     return <> <div className="cards-row">
       <a href="#" className="card horizontal">
         <div className="card-image-wrapper">
-          <img src="/Bagabeach.jpg" alt="Bagabeach" />
+          <img src="/Mumbai.jpg" alt="Mumbai" />
         </div>
-        <div className="card-title">Cities</div>
+        <div className="card-title">Mumbai</div>
       </a>
 
       <a href="#" className="card horizontal">
         <div className="card-image-wrapper">
-          <img src="AgandaBeach.jpg" alt="Agandabeach" />
+          <img src="Kolkata.jpg" alt="Kolkata" />
         </div>
-        <div className="card-title">Agandabeach</div>
+        <div className="card-title">Kolkata</div>
       </a>
           <a href="#" className="card horizontal">
         <div className="card-image-wrapper">
-          <img src="Arambol.jpg" alt="Arambol" />
+          <img src="Chennai.jpg" alt="Chennai" />
         </div>
-        <div className="card-title">Arambol</div>``
+        <div className="card-title">Chennai</div>``
       </a>
             <a href="#" className="card horizontal">
         <div className="card-image-wrapper">
-          <img src="CandolimBeach.jpg" alt="CandolimBeach" />
+          <img src="Hydrabad.jpg" alt="Hydrabad" />
         </div>
-        <div className="card-title">CandolimBeach</div>``
+        <div className="card-title">Hydrabad</div>``
       </a>
-         <a href="#" className="card horizontal">
-        <div className="card-image-wrapper">
-          <img src="Juhubeach.jpg" alt="Juhubeach" />
-        </div>
-        <div className="card-title">Juhubeach</div>``
-      </a>
-       <a href="#" className="card horizontal">
-        <div className="card-image-wrapper">
-          <img src="MorjimBeach.jpg" alt="MorjimBeach" />
-        </div>
-        <div className="card-title">MorjimBeach</div>``
-      </a>
-       <a href="#" className="card horizontal">
-        <div className="card-image-wrapper">
-          <img src="ParadiseBeach.jpg" alt="ParadiseBeach" />
-        </div>
-        <div className="card-title">ParadiseBeach</div>``
-      </a>
-          <a href="#" className="card horizontal">
-        <div className="card-image-wrapper">
-          <img src="RadhanagarBeach.jpg" alt="RadhanagarBeach" />
-        </div>
-        <div className="card-title">RadhanagarBeach</div>``
-      </a>
+  
           <a href="#" className="card horizontal">
         <div className="content">
           
